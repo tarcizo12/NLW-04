@@ -22,7 +22,7 @@ function enviarEmail({para,id, assunto,texto }: DadosDeEnvioEmail){
 
 class EnviarEmailParaUsuario{
     send(){
-        enviarEmail("tarcizn12@gmail.com","922","Descobertas", "descobrindo"); 
+        //enviarEmail("tarcizn12@gmail.com","922","Descobertas", "descobrindo"); 
         
     }
 }
